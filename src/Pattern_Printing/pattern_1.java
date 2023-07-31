@@ -1,3 +1,10 @@
+/*
+ * * * *
+ *     *
+ *     *
+ * * * *
+ */
+
 package Pattern_Printing;
 
 public class pattern_1 {
