@@ -1,4 +1,4 @@
-# Coding In Java
+# Practice In Java
 
 <h1>Requirements</h1>
 
