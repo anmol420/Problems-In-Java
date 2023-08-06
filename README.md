@@ -3,7 +3,7 @@
 <h1>Requirements</h1>
 
 >[Java](https://www.java.com/en/download/) <br>
-[Visual Studio Code](https://code.visualstudio.com/) or any other code editor <br>
+[Visual Studio Code](https://code.visualstudio.com/) or any other code editor such as IntelliJ<br>
 [Git](https://git-scm.com/downloads)
 
 <h1>How To Use</h1>
