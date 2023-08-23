@@ -10,7 +10,7 @@
 
 - Please Ensure That You Have Installed JDK In Your Device.
 
-- To Check The Working Of The Codes, You Can Go To The Directory And Type `java <file_name>.java`.
+- To Check The Working Of The Codes, You Can Go To The Directory And Type `java <file_name>.java`.*
 
 <h3>Developer</h3>
 
